@@ -1,16 +1,16 @@
 ---
-title: Ultricies aliquam
+title: Opensource
 content_img_path: images/pic04.jpg
 home_spotlights:
   enabled: true
-  weight: 3
   excerpt: >-
     Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
     mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
   home_img:
-    path: images/pic03.jpg
     data_position: 25% 25%
+    path: images/pic03.jpg
     url: '#'
+  weight: 3
 template: page
 ---
 
