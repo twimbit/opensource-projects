@@ -74,10 +74,9 @@ sections:
 
         title: Twimintel
       - icon: fa-diamond
-        text: |-
+        text: |+
           Wordpress headless CMS using graphQL
 
-          <a href="https://github.com/twimbit/Feed-Amp-Theme"> Check out</a>
         title: 'Twimcast CMS '
     section_id: two
     subtitle: Projects that we have made OpenSource
