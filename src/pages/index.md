@@ -109,11 +109,7 @@ sections:
           title: LinkedIn
           url: 'https://www.linkedin.com/company/twimbit'
       title: Social
-    text: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
+    text: ''
     title: Get in touch
     type: contact
 menus:
