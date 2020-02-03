@@ -37,7 +37,7 @@ sections:
       - is_primary: false
         is_scrolly: false
         label: Learn more
-        url: /generic
+        url: 'https://github.com/twimbit'
     background_style: style3
     component: Features
     features_list:
