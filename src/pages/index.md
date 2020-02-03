@@ -43,9 +43,9 @@ sections:
     features_list:
       - icon: fa-code
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Lorem ipsum amet
+          Paired amp experience with 100 % valid amp component and drag and drop
+          home screen.
+        title: Twimcast-amp-theme
       - icon: fa-lock
         text: >-
           Phasellus convallis elit id ullam corper amet et pulvinar. Duis
@@ -72,12 +72,8 @@ sections:
           aliquam turpis mauris, sed ultricies erat dapibus.
         title: Aliquam urna dapibus
     section_id: two
-    subtitle: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
-    title: What we do
+    subtitle: Projects that we have made OpenSource
+    title: OpenSource Projects
     type: features
   - background_style: style1
     component: Contact
