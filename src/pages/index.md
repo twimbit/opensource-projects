@@ -77,14 +77,9 @@ sections:
   - background_style: style1
     component: Contact
     contact_list:
-      - text: |-
-          12345 Somewhere Road #654
-          Nashville, TN 00000-0000
-          USA
-        title: Address
-      - text: user@Hyperspace.tld
+      - text: reachus@twimbit.com
         title: Email
-        url: '#'
+        url: 'mailto:reachus@twimbit.com'
       - text: (000) 000-0000
         title: Phone
     section_id: three
@@ -92,19 +87,19 @@ sections:
       social_icons:
         - icon: fa-twitter
           title: Twitter
-          url: '#'
+          url: 'https://twitter.com/its_twimbit'
         - icon: fa-facebook
           title: Facebook
           url: '#'
         - icon: fa-github
           title: GitHub
-          url: '#'
+          url: 'https://github.com/twimbit'
         - icon: fa-instagram
           title: Instagram
-          url: '#'
+          url: 'https://www.instagram.com/twimbit/'
         - icon: fa-linkedin
           title: LinkedIn
-          url: '#'
+          url: 'https://www.linkedin.com/company/twimbit'
       title: Social
     text: >-
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
