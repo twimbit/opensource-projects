@@ -1,11 +1,11 @@
 ---
 title: Opensource
-content_img_path: images/pic04.jpg
+content_img_path: /images/open source.jpg
 home_spotlights:
   enabled: true
   excerpt: >-
-    Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
+    Surprising enough most of our technology solutions comes from Opensource
+    technologies and we never spare single chance to use them across functions.
   home_img:
     data_position: 25% 25%
     path: images/pic03.jpg
@@ -13,7 +13,4 @@ home_spotlights:
   weight: 3
 template: page
 ---
-
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Surprising enough most of our technology solutions comes from Opensource technologies and we never spare single chance to use them across functions. Approximately 70% of our tech is from opensource and thus we feel our moral obligation to give back to the opensource community.Thus we have made most of our technologies opensource, so that others can also become better. We also support our community program Namely Twimbit Opensource , Twimbit Foundation and Mobile-Web.dev which are growing day by day.
