@@ -96,7 +96,7 @@ sections:
           url: 'https://twitter.com/its_twimbit'
         - icon: fa-facebook
           title: Facebook
-          url: '#'
+          url: 'https://www.facebook.com/twimbit/'
         - icon: fa-github
           title: GitHub
           url: 'https://github.com/twimbit'
