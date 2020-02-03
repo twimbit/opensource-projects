@@ -107,8 +107,8 @@ sections:
           title: LinkedIn
           url: 'https://www.linkedin.com/company/twimbit'
       title: Social
-    text: ''
-    title: Get in touch
+    text: Get in touch with us!
+    title: 'Contact '
     type: contact
 menus:
   main:
