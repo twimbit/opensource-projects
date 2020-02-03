@@ -47,6 +47,9 @@ sections:
           home screen.
 
 
+          <a href="https://github.com/twimbit/Twimcast-amp-theme"> Check out</a>
+
+
           <https://github.com/twimbit/Twimcast-amp-theme>
           [](https://github.com/twimbit/Twimcast-amp-theme)
         title: Twimcast Amp-theme
