@@ -79,7 +79,7 @@ sections:
 
         title: 'Twimcast CMS '
     section_id: two
-    subtitle: 'Projects that we have made '
+    subtitle: 'Checkout the projects that we have made '
     title: OpenSource Projects
     type: features
   - background_style: style1
