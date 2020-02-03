@@ -44,8 +44,14 @@ sections:
       - icon: fa-code
         text: >-
           Paired amp experience with 100 % valid amp component and drag and drop
-          home screen.  `<input type="button" name="Check out"
-          href="`<https://github.com/twimbit/Twimcast-amp-theme>">
+          home screen. 
+
+
+          <a href="<https://github.com/twimbit/Twimcast-amp-theme>"> **Check
+          out**
+          </a>[](https://github.com/twimbit/Twimcast-amp-theme)[](https://github.com/twimbit/Twimcast-amp-theme)
+
+           [](https://github.com/twimbit/Twimcast-amp-theme)
         title: Twimcast Amp-theme
       - icon: fa-lock
         text: 100% valid feed enabled amp theme for wordpress.
