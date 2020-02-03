@@ -45,32 +45,24 @@ sections:
         text: >-
           Paired amp experience with 100 % valid amp component and drag and drop
           home screen.
-        title: Twimcast-amp-theme
+        title: Twimcast Amp-theme
       - icon: fa-lock
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Aliquam sed nullam
+        text: 100% valid feed enabled amp theme for wordpress.
+        title: Feed Amp-Theme
       - icon: fa-cog
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Sed erat ullam corper
+          Extend CMS capability to handle complex functions and organise
+          information. Cloud and IOT connection is also possible.
+        title: Open Dash
       - icon: fa-desktop
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Veroeros quis lorem
+        text: Twimcast Public Consumer Service
+        title: Twimcast
       - icon: fa-chain
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Urna quis bibendum
+        text: Scrapping of data
+        title: Twimintel
       - icon: fa-diamond
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Aliquam urna dapibus
+        text: Wordpress headless CMS using graphQL
+        title: 'Twimcast CMS '
     section_id: two
     subtitle: Projects that we have made OpenSource
     title: OpenSource Projects
