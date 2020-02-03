@@ -1,11 +1,11 @@
 ---
 title: Technology
-content_img_path: images/pic04.jpg
+content_img_path: /images/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 home_spotlights:
   enabled: true
   excerpt: >-
-    Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
+    We work across various technology Domains in ML/AI , Web , Clouds and Mobile
+    apps that supports the entire research process.
   home_img:
     data_position: top center
     path: images/pic02.jpg
@@ -13,7 +13,4 @@ home_spotlights:
   weight: 2
 template: page
 ---
-
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+At Twimbit the most important thing is to leverage technology at every step. We work across various technology Domains in ML/AI , Web , Clouds and Mobile apps that supports the entire research process. We have our apps and platforms both for individuals and businesses that deliver our research to them. At times technology helps us to exceed human capabilities of information acquisition thus reaching the far-most point of Knowledge and intelligence gathering.
