@@ -88,8 +88,6 @@ sections:
       - text: reachus@twimbit.com
         title: Email
         url: 'mailto:reachus@twimbit.com'
-      - text: (000) 000-0000
-        title: Phone
     section_id: three
     social:
       social_icons:
