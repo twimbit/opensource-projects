@@ -42,33 +42,42 @@ sections:
     component: Features
     features_list:
       - icon: fa-code
-        text: >-
+        text: >+
           Paired amp experience with 100 % valid amp component and drag and drop
           home screen.
 
 
           <a href="https://github.com/twimbit/Twimcast-amp-theme"> Check out</a>
 
-
-          <https://github.com/twimbit/Twimcast-amp-theme>
-          [](https://github.com/twimbit/Twimcast-amp-theme)
         title: Twimcast Amp-theme
       - icon: fa-lock
-        text: 100% valid feed enabled amp theme for wordpress.
+        text: |
+          100% valid feed enabled amp theme for wordpress.
+
+          <a href="https://github.com/twimbit/Feed-Amp-Theme"> Check out</a>
         title: Feed Amp-Theme
       - icon: fa-cog
-        text: >-
+        text: >
           Extend CMS capability to handle complex functions and organise
           information. Cloud and IOT connection is also possible.
+
+
+          <a href="https://github.com/twimbit/OpenDash"> Check out</a>
         title: Open Dash
       - icon: fa-desktop
-        text: Twimcast Public Consumer Service
+        text: |
+          Twimcast Public Consumer Service
         title: Twimcast
       - icon: fa-chain
-        text: Scrapping of data
+        text: |+
+          Scrapping of data
+
         title: Twimintel
       - icon: fa-diamond
-        text: Wordpress headless CMS using graphQL
+        text: |-
+          Wordpress headless CMS using graphQL
+
+          <a href="https://github.com/twimbit/Feed-Amp-Theme"> Check out</a>
         title: 'Twimcast CMS '
     section_id: two
     subtitle: Projects that we have made OpenSource
