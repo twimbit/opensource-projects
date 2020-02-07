@@ -13,7 +13,7 @@ home_spotlights:
   weight: 1
 template: page
 ---
-<img src="blob:https://opensource.twimbit.com/9fda42ce-5878-4c09-9f7f-70a6283ac3d3" height="200px" align="right">
+<img src="blob:https://opensource.twimbit.com/9fda42ce-5878-4c09-9f7f-70a6283ac3d3" height="400px" align="right">
 <br><br> Our goal is to touch everyone’s life and help them making better decisions. We work across various domains and provide knowledge that is truely relevant.
 
 
