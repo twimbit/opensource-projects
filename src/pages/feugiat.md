@@ -13,4 +13,4 @@ home_spotlights:
   weight: 2
 template: page
 ---
-At Twimbit the most important thing is to leverage technology at every step. We work across various technology Domains in ML/AI , Web , Clouds and Mobile apps that supports the entire research process. We have our apps and platforms both for individuals and businesses that deliver our research to them. At times technology helps us to exceed human capabilities of information acquisition thus reaching the far-most point of Knowledge and intelligence gathering.
+At Twimbit the most important thing is to leverage technology at every step. We have our apps and platforms both for individuals and businesses that deliver our research to them. At times technology helps us to exceed human capabilities of information acquisition thus reaching the far-most point of Knowledge and intelligence gathering.
