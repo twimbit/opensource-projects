@@ -1,6 +1,6 @@
 ---
 title: Twimbit
-content_img_path: /images/img_nature.jpg
+content_img_path: ''
 home_spotlights:
   enabled: true
   excerpt: >-
