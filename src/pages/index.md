@@ -79,8 +79,8 @@ sections:
 
         title: 'Twimcast CMS '
     section_id: two
-    subtitle: 'Checkout the projects that we have made '
-    title: OpenSource Projects
+    subtitle: ''
+    title: Our Projects
     type: features
   - background_style: style1
     component: Contact
