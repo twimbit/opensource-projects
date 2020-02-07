@@ -15,6 +15,6 @@ template: page
 ---
 Our goal is to touch everyone’s life and help them making better decisions. We work across various domains and provide knowledge that is truely relevant.
 <br><br>
-<img src="blob:https://opensource.twimbit.com/9fda42ce-5878-4c09-9f7f-70a6283ac3d3" height="400px">
+<img src="blob:https://opensource.twimbit.com/b4332e1f-c914-4a5b-91b1-753564d1f81e" height="400px">
 
 
