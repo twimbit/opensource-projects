@@ -1,6 +1,6 @@
 ---
 title: Twimbit
-content_img_path: /images/banner.jpg
+content_img_path: /images/gray-bridge-and-trees-814499.jpg
 home_spotlights:
   enabled: true
   excerpt: >-
