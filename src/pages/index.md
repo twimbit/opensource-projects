@@ -23,10 +23,8 @@ sections:
     background_style: style1
     component: Intro
     section_id: intro
-    subtitle: >-
-      We are committed to leverage open source technology contribute and here is
-      our way.
-    title: Twimbit Opensource
+    subtitle: Our commitment to opensource.
+    title: Twimbit Possibilities
     type: intro
   - background_style: style2
     component: Spotlights
