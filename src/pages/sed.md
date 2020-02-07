@@ -4,8 +4,8 @@ content_img_path: /images/banner.jpg
 home_spotlights:
   enabled: true
   excerpt: >-
-    Twimbit is a research company where we help businesses and individuals
-    overcome most challenging problems using the power of research.
+    Twimbit helps businesses and individuals overcome the most challenging
+    problems using the power of research and digital.
   home_img:
     data_position: center center
     path: /images/twimbit.png
@@ -13,4 +13,4 @@ home_spotlights:
   weight: 1
 template: page
 ---
-Twimbit is a research company where we help businesses and individuals overcome most challenging problems using the power of research. Our goal is to touch everyone’s life and help their decision making process. We work across various domains and provide the relevant knowledge that one should always have, thus improving the efficiency and get better at what they do.
+Our goal is to touch everyone’s life and help them making better decisions. We work across various domains and provide knowledge that is truely relevant.
