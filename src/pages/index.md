@@ -40,14 +40,13 @@ sections:
     component: Features
     features_list:
       - icon: fa-code
-        text: >+
-          Paired amp experience with 100 % valid amp component and drag and drop
-          home screen.
+        text: >-
+          A community run by Twimbit engineers which supports and leverages
+          opensource mobile-web technologies.
 
 
-          <a href="https://github.com/twimbit/Twimcast-amp-theme"> Check out</a>
-
-        title: Twimcast Amp-theme
+          <a href="https://mobile-web.dev"> Check out</a>
+        title: Mobile-Web.dev
       - icon: fa-lock
         text: |
           100% valid feed enabled amp theme for wordpress.
