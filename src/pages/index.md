@@ -68,11 +68,12 @@ sections:
       - icon: fa-chain
         text: |+
           Scrapping of data
-
-        title: Twimintel
+           
+          <a href="https://github.com/twimbit/Monday-Wordpress-integration"> Check out</a>
+        title: Monday Wordpress Integration
       - icon: fa-diamond
         text: |+
-          Wordpress headless CMS using graphQL
+          Automate your wordpress by integrating it with monday.com
 
         title: "Twimcast CMS "
     section_id: two
