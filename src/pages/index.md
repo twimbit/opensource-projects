@@ -65,9 +65,10 @@ sections:
         text: |
           Twimcast Public Consumer Service
         title: Twimcast
+        
       - icon: fa-chain
         text: |+
-          Scrapping of data
+          Automate your wordpress by integrating it with monday.com
            
           <a href="https://github.com/twimbit/Monday-Wordpress-integration"> Check out</a>
         title: Monday Wordpress Integration
